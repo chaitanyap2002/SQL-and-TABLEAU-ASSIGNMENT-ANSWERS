@@ -1,5 +1,5 @@
 # SQL-and-TABLEAU-ASSIGNMENT-ANSWERS
-I HAVE SOLVED ALL THE ASSIGNMENTS ANSWERS OF TABLEAU AND SQL FROM THE EXCELR INSTITUIONS .
+I HAVE SOLVED ALL THE ASSIGNMENTS ANSWERS OF TABLEAU AND SQL FROM THE EXCEL INSTITUTIONS.
 Tableau assignments contain various types of questions including calculations and all types of charts. 
 Additionally, interactive dashboards provide insights into sales and profits.
 
